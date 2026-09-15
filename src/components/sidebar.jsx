@@ -1,7 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+function Sidebar() {
   return (
     // Sidebar
     <div>
@@ -13,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default Sidebar;
